@@ -28,6 +28,12 @@
     <name>kagura-features</name>
     <description>Create a feature with the defined dependencies set.</description>
 
+    <parent>
+        <groupId>com.kagurabi</groupId>
+        <artifactId>Kagura-bom</artifactId>
+        <version>1.10-SNAPSHOT</version>
+    </parent>
+
     <dependencies>
         <dependency>
             <groupId>com.kagurabi.services</groupId>
