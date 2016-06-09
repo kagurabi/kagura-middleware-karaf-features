@@ -21,12 +21,6 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <parent>
-        <groupId>com.kagurabi.services</groupId>
-        <artifactId>kagura-services</artifactId>
-        <version>1.10-SNAPSHOT</version>
-    </parent>
-
     <artifactId>kagura-features</artifactId>
     <version>1.10-SNAPSHOT</version>
     <packaging>pom</packaging>
