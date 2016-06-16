@@ -72,7 +72,7 @@
         <dependencies>
             <dependency>
                 <groupId>com.kagurabi</groupId>
-                <artifactId>Kagura-bom</artifactId>
+                <artifactId>kagura-bom</artifactId>
                 <version>1.10-SNAPSHOT</version>
                 <type>pom</type>
                 <scope>import</scope>
