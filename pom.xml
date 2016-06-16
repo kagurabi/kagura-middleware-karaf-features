@@ -29,8 +29,8 @@
     <description>Create a feature with the defined dependencies set.</description>
 
     <parent>
-        <groupId>com.kagurabi</groupId>
-        <artifactId>Kagura-karaf-bom</artifactId>
+        <groupId>com.kagurabi.services</groupId>
+        <artifactId>kagura-karaf-bom</artifactId>
         <version>1.10-SNAPSHOT</version>
     </parent>
 
