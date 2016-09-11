@@ -25,7 +25,7 @@
     <artifactId>Kagura-features</artifactId>
     <version>1.10-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>kagura-features</name>
+    <name>Kagura-features</name>
     <description>Create a feature with the defined dependencies set.</description>
 
     <parent>
